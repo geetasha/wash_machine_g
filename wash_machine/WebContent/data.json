@@ -1,0 +1,82 @@
+{
+    "allProducts": 
+        {"washMachine":[{
+            
+            "product_name": "Whirlpool Duet 4.3-cu",
+            "product_no": "#588954",
+            "product_description": "Whirlpool Duet 4.3-cu ft High-Efficiency Stackable Front-Load Washer with Steam Cycle (White) ENERGY STAR",
+            "price": "$900.95",
+            "image_path": "washer1.jpg",
+            "stock_availability": "true",
+            "no_of_items": "20"
+            
+        },
+        {
+            
+            "product_name": "Whirlpool 4.3-cu ft",
+            "product_no": "#629986",
+            "product_description": "Whirlpool 4.3-cu ft High-Efficiency Top-Load Washer (White)",
+            "price": "$400.00",
+            "image_path": "washer2.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        },
+        {
+            
+            "product_name": "Whirlpool 5.3-cu ft",
+            "product_no": "#629986",
+            "product_description": "Whirlpool 4.3-cu ft High-Efficiency Top-Load Washer (White)",
+            "price": "$400.00",
+            "image_path": "washer2.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        },
+        {
+            
+            "product_name": "Whirlpool 4.3-cu ft",
+            "product_no": "#629998",
+            "product_description": "Whirlpool 5.3-cu ft High-Efficiency Top-Load Washer (White) ENERGY STAR",
+            "price": "$600.00",
+            "image_path": "washer3.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        },
+        {
+            
+            "product_name": "Samsung 4.2 Cu. Ft.",
+            "product_no": "#629987",
+            "product_description": "Front Loading,4.2 Cubic Feet,1,200 RPM's,4 Speed,8 Cycles",
+            "price": "$400.00",
+            "image_path": "washer2.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        },
+        {
+            
+            "product_name": "Kenmore 41122 3.9 cu. ft",
+            "product_no": "#629990",
+            "product_description": "Kenmore 41122 3.9 cu. ft. Front-Load Washer - White",
+            "price": "$600.00",
+            "image_path": "washer5.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        },
+        {
+            
+            "product_name": "GE - 3.8 Cu. Ft.",
+            "product_no": "#629991",
+            "product_description": "GE - 3.8 Cu. Ft. 11-Cycle Top-Loading Washer - White",
+            "price": "$300.00",
+            "image_path": "washer6.jpg",
+            "stock_availability": "true",
+            "no_of_items": "10"
+            
+        }]
+     
+ }
+ }

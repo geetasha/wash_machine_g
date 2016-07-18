@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css">
+<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="control.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="myCtrl">
+<div id="outer">
+<div id="d1">
+<div id="imgOuter">
+<img src="{{detail.image_path}}"></div>
+<p>{{detail.product_name}}</p>
+<p>{{detail.product_description}}</p>
+<p>{{detail.price}}</p>
+<input type="button" value="Add to Cart">
+</div>
+<div id="d2">
+<div class="d3" ng-repeat="x in myData">
+<div id="divRep"><img src="{{x.image_path}}">
+<p>{{x.product_name}}</p>
+<p>{{x.price}}</p>
+<input type="button" ng-click="getDetails($index)" value="View Details"></div>
+</div>
+</div>
+</div>
+</body>
+</html>
